@@ -1238,6 +1238,7 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libutinterface_md.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libutinterface_md.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libuvcamfilter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libuvcamfilter.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libvcodec_oal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_oal.so \
+    vendor/micromax/yogurt/proprietary/vendor/lib64/libwifi-hal-mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifi-hal-mtk.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libverno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libverno.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libwapi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwapi.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libwifitest.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifitest.so \
