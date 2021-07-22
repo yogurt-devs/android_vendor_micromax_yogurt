@@ -557,6 +557,7 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/etc/virtual-spn-conf-by-imsi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-imsi.xml \
     vendor/micromax/yogurt/proprietary/vendor/firmware/BT_FW.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/BT_FW.cfg \
     vendor/micromax/yogurt/proprietary/vendor/firmware/WIFI_RAM_CODE_soc1_0_1a_1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/WIFI_RAM_CODE_soc1_0_1a_1.bin \
+    vendor/micromax/yogurt/proprietary/vendor/firmware/WIFI_RAM_CODE_soc1_0_1a_1:$(TARGET_COPY_OUT_VENDOR)/firmware/WIFI_RAM_CODE_soc1_0_1a_1 \
     vendor/micromax/yogurt/proprietary/vendor/firmware/WMT_SOC.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/WMT_SOC.cfg \
     vendor/micromax/yogurt/proprietary/vendor/firmware/aw881xx_pid_01_fm_cfg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw881xx_pid_01_fm_cfg.bin \
     vendor/micromax/yogurt/proprietary/vendor/firmware/aw881xx_pid_01_fm_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw881xx_pid_01_fm_fw.bin \
