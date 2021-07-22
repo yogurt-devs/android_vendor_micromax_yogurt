@@ -157,7 +157,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/etc/BSTSWAD_Calib.bin:$(TARGET_COPY_OUT_VENDOR)/etc/BSTSWAD_Calib.bin \
     vendor/micromax/yogurt/proprietary/vendor/etc/DSM.xml:$(TARGET_COPY_OUT_VENDOR)/etc/DSM.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/DSM_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/DSM_config.xml \
-    vendor/micromax/yogurt/proprietary/vendor/etc/a2dp_in_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/a2dp_in_audio_policy_configuration.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/aee-config:$(TARGET_COPY_OUT_VENDOR)/etc/aee-config \
     vendor/micromax/yogurt/proprietary/vendor/etc/agps_profiles_conf2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/agps_profiles_conf2.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/apdb/APDB_MT6768_S01__W2043:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6768_S01__W2043 \
@@ -261,10 +260,8 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/etc/audio_param/VolumeGainMap_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/VolumeGainMap_ParamUnitDesc.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/audio_param/Volume_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/Volume_AudioParam.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/audio_param/Volume_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/Volume_ParamUnitDesc.xml \
-    vendor/micromax/yogurt/proprietary/vendor/etc/audio_policy_configuration_bluetooth_legacy_hal.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_configuration_bluetooth_legacy_hal.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/aurisys_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/aurisys_param/Speech_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_param/Speech_AudioParam.xml \
-    vendor/micromax/yogurt/proprietary/vendor/etc/bluetooth_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth_audio_policy_configuration.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/bokeh_cfg_4_3.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/bokeh_cfg_4_3.cfg \
     vendor/micromax/yogurt/proprietary/vendor/etc/bokeh_otp_default.data:$(TARGET_COPY_OUT_VENDOR)/etc/bokeh_otp_default.data \
     vendor/micromax/yogurt/proprietary/vendor/etc/distortion_param.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/distortion_param.cfg \
