@@ -648,7 +648,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/memtrack.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.mt6768.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/power.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/power.default.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/power.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/power.mt6768.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib/hw/sound_trigger.primary.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sound_trigger.primary.mt6768.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/thermal.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.mt6768.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/vendor.mediatek.hardware.dfps@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.dfps@1.0-impl.so \
@@ -936,7 +935,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/power.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/power.default.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/power.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/power.mt6768.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/sensors.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.mt6768.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib64/hw/sound_trigger.primary.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sound_trigger.primary.mt6768.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/thermal.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.mt6768.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.camera.lomoeffect@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.camera.lomoeffect@1.0-impl.so \
