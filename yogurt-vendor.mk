@@ -12,11 +12,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/app/EmCamera/lib/arm64/libem_camera_jni.so:$(TARGET_COPY_OUT_VENDOR)/app/EmCamera/lib/arm64/libem_camera_jni.so \
     vendor/micromax/yogurt/proprietary/vendor/app/HorCali/lib/arm64/libprizeem_sensor_jni.so:$(TARGET_COPY_OUT_VENDOR)/app/HorCali/lib/arm64/libprizeem_sensor_jni.so \
     vendor/micromax/yogurt/proprietary/vendor/app/SensorHub/lib/arm64/libem_sensor_jni.so:$(TARGET_COPY_OUT_VENDOR)/app/SensorHub/lib/arm64/libem_sensor_jni.so \
-    vendor/micromax/yogurt/proprietary/vendor/bin/aee_aedv:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv \
-    vendor/micromax/yogurt/proprietary/vendor/bin/aee_aedv64:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv64 \
-    vendor/micromax/yogurt/proprietary/vendor/bin/aee_archivev:$(TARGET_COPY_OUT_VENDOR)/bin/aee_archivev \
-    vendor/micromax/yogurt/proprietary/vendor/bin/aee_dumpstatev:$(TARGET_COPY_OUT_VENDOR)/bin/aee_dumpstatev \
-    vendor/micromax/yogurt/proprietary/vendor/bin/aeev:$(TARGET_COPY_OUT_VENDOR)/bin/aeev \
     vendor/micromax/yogurt/proprietary/vendor/bin/atcid:$(TARGET_COPY_OUT_VENDOR)/bin/atcid \
     vendor/micromax/yogurt/proprietary/vendor/bin/audiocmdservice_atci:$(TARGET_COPY_OUT_VENDOR)/bin/audiocmdservice_atci \
     vendor/micromax/yogurt/proprietary/vendor/bin/autobt:$(TARGET_COPY_OUT_VENDOR)/bin/autobt \
@@ -161,7 +156,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/etc/BSTSWAD_Calib.bin:$(TARGET_COPY_OUT_VENDOR)/etc/BSTSWAD_Calib.bin \
     vendor/micromax/yogurt/proprietary/vendor/etc/DSM.xml:$(TARGET_COPY_OUT_VENDOR)/etc/DSM.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/DSM_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/DSM_config.xml \
-    vendor/micromax/yogurt/proprietary/vendor/etc/aee-config:$(TARGET_COPY_OUT_VENDOR)/etc/aee-config \
     vendor/micromax/yogurt/proprietary/vendor/etc/agps_profiles_conf2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/agps_profiles_conf2.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/apdb/APDB_MT6768_S01__W2043:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6768_S01__W2043 \
     vendor/micromax/yogurt/proprietary/vendor/etc/apdb/APDB_MT6768_S01__W2043_ENUM:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6768_S01__W2043_ENUM \
@@ -279,8 +273,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/etc/ecc_list_OP20.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list_OP20.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/factory.ini:$(TARGET_COPY_OUT_VENDOR)/etc/factory.ini \
     vendor/micromax/yogurt/proprietary/vendor/etc/fstb.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/fstb.cfg \
-    vendor/micromax/yogurt/proprietary/vendor/etc/init/aee_aedv.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/aee_aedv.rc \
-    vendor/micromax/yogurt/proprietary/vendor/etc/init/aee_aedv64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/aee_aedv64.rc \
     vendor/micromax/yogurt/proprietary/vendor/etc/init/android.hardware.audio@5.0-service-mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.audio@5.0-service-mediatek.rc \
     vendor/micromax/yogurt/proprietary/vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc \
     vendor/micromax/yogurt/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@1.0-service-mediatek.rc \
