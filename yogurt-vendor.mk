@@ -6,12 +6,10 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/micromax/yogurt
 
 PRODUCT_COPY_FILES += \
-    vendor/micromax/yogurt/proprietary/bin/kpoc_charger:$(TARGET_COPY_OUT_SYSTEM)/bin/kpoc_charger \
-    vendor/micromax/yogurt/proprietary/etc/init/kpoc_charger.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/kpoc_charger.rc \
-    vendor/micromax/yogurt/proprietary/lib/libshowlogo.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libshowlogo.so \
     vendor/micromax/yogurt/proprietary/vendor/app/EmCamera/lib/arm64/libem_camera_jni.so:$(TARGET_COPY_OUT_VENDOR)/app/EmCamera/lib/arm64/libem_camera_jni.so \
     vendor/micromax/yogurt/proprietary/vendor/app/HorCali/lib/arm64/libprizeem_sensor_jni.so:$(TARGET_COPY_OUT_VENDOR)/app/HorCali/lib/arm64/libprizeem_sensor_jni.so \
     vendor/micromax/yogurt/proprietary/vendor/app/SensorHub/lib/arm64/libem_sensor_jni.so:$(TARGET_COPY_OUT_VENDOR)/app/SensorHub/lib/arm64/libem_sensor_jni.so \
+    vendor/micromax/yogurt/proprietary/bin/chargeonlymode:$(TARGET_COPY_OUT_SYSTEM)/bin/chargeonlymode \
     vendor/micromax/yogurt/proprietary/vendor/bin/atcid:$(TARGET_COPY_OUT_VENDOR)/bin/atcid \
     vendor/micromax/yogurt/proprietary/vendor/bin/audiocmdservice_atci:$(TARGET_COPY_OUT_VENDOR)/bin/audiocmdservice_atci \
     vendor/micromax/yogurt/proprietary/vendor/bin/autobt:$(TARGET_COPY_OUT_VENDOR)/bin/autobt \
