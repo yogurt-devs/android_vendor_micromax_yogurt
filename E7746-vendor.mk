@@ -18,7 +18,10 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/micromax/E7746
 
 PRODUCT_COPY_FILES += \
+    vendor/micromax/E7746/proprietary/bin/kpoc_charger:$(TARGET_COPY_OUT_SYSTEM)/bin/kpoc_charger \
     vendor/micromax/E7746/proprietary/product/etc/apns-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml \
+    vendor/micromax/E7746/proprietary/init/hw/kpoc_charger.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/kpoc_charger.rc \
+    vendor/micromax/E7746/proprietary/lib/libshowlogo.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libshowlogo.so
 
 PRODUCT_PACKAGES += \
     ImsService
