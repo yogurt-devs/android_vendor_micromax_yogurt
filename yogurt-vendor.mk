@@ -814,7 +814,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib/libstorage_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstorage_otp.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/libstrongswan.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstrongswan.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/libsysenv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsysenv.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib/libtextclassifier_hash.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtextclassifier_hash.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/libtface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtface.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/libtflite_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtflite_mtk.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/libtflite_mtk_static.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtflite_mtk_static.so \
@@ -1215,7 +1214,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libstrongswan.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstrongswan.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libsysenv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsysenv.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libtensorflowlite.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtensorflowlite.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib64/libtextclassifier_hash.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtextclassifier_hash.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libtface.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtface.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libtflite_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtflite_mtk.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/libtflite_mtk_static.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtflite_mtk_static.so \
