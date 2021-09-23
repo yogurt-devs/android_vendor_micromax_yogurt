@@ -597,7 +597,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.drm@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.drm@1.0-impl.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.memtrack@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.memtrack@1.0-impl.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.power@1.3-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.power@1.3-impl-mediatek.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.bluetooth.default.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.default.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/audio.primary.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6768.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/audio.r_submix.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.default.so \
@@ -876,7 +875,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.gnss@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.gnss@2.0-impl-mediatek.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.memtrack@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.memtrack@1.0-impl.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.power@1.3-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.power@1.3-impl-mediatek.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib64/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.bluetooth.default.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.default.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/audio.primary.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.mt6768.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/audio.r_submix.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.r_submix.default.so \
