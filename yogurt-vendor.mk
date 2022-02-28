@@ -580,8 +580,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/firmware/soc1_0_ram_mcu_1a_1_hdr.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/soc1_0_ram_mcu_1a_1_hdr.bin \
     vendor/micromax/yogurt/proprietary/vendor/firmware/soc1_0_ram_wifi_1a_1_hdr.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/soc1_0_ram_wifi_1a_1_hdr.bin \
     vendor/micromax/yogurt/proprietary/vendor/lib/libwpa_client.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwpa_client.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib/android.hardware.audio.common-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common-util.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib/android.hardware.audio.common@5.0-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@5.0-util.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/bf2253L_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/bf2253L_mipi_raw_tuning.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/bf2253Lmacro_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/bf2253Lmacro_mipi_raw_tuning.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/egl/egl.cfg:$(TARGET_COPY_OUT_VENDOR)/lib/egl/egl.cfg \
@@ -590,7 +588,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib/egl/libMEOW_trace.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libMEOW_trace.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/gc5035_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc5035_mipi_raw_tuning.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/gc8034sub_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc8034sub_mipi_raw_tuning.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.audio.effect@5.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio.effect@5.0-impl.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.audio@5.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio@5.0-impl-mediatek.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
@@ -854,8 +851,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.videotelephony@1.0.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/vendor.microtrust.hardware.capi@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.microtrust.hardware.capi@2.0.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/vendor.microtrust.hardware.tface@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.microtrust.hardware.tface@1.0.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib64/android.hardware.audio.common-util.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.audio.common-util.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib64/android.hardware.audio.common@5.0-util.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.audio.common@5.0-util.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/bf2253L_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/bf2253L_mipi_raw_IdxMgr.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/bf2253L_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/bf2253L_mipi_raw_tuning.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/bf2253Lmacro_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/bf2253Lmacro_mipi_raw_IdxMgr.so \
@@ -867,7 +862,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib64/gc5035_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc5035_mipi_raw_tuning.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/gc8034sub_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc8034sub_mipi_raw_IdxMgr.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/gc8034sub_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc8034sub_mipi_raw_tuning.so \
-    vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.audio.effect@5.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.audio.effect@5.0-impl.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.audio@5.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.audio@5.0-impl-mediatek.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
