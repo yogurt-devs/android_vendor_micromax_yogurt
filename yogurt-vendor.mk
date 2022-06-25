@@ -53,8 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/android.hardware.wifi@1.0-service-lazy-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.wifi@1.0-service-lazy-mediatek \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/camerahalserver:$(TARGET_COPY_OUT_VENDOR)/bin/hw/camerahalserver \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/mtkfusionrild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/mtkfusionrild \
-    vendor/micromax/yogurt/proprietary/vendor/bin/hw/power_legacy_test_v_1_0:$(TARGET_COPY_OUT_VENDOR)/bin/hw/power_legacy_test_v_1_0 \
-    vendor/micromax/yogurt/proprietary/vendor/bin/hw/power_native_test_v_1_0:$(TARGET_COPY_OUT_VENDOR)/bin/hw/power_native_test_v_1_0 \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/vendor.mediatek.hardware.dfps@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.dfps@1.0-service \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/vendor.mediatek.hardware.dplanner@2.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.dplanner@2.0-service \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/vendor.mediatek.hardware.gpu@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.gpu@1.0-service \
