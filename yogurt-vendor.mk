@@ -587,6 +587,7 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib/gc5035_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc5035_mipi_raw_tuning.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/gc8034sub_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc8034sub_mipi_raw_tuning.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.audio@5.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio@5.0-impl-mediatek.so \
+    vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.audio.effect@5.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio.effect@5.0-impl.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
     vendor/micromax/yogurt/proprietary/vendor/lib/hw/android.hardware.drm@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.drm@1.0-impl.so \
@@ -870,6 +871,7 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/lib64/gc8034sub_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc8034sub_mipi_raw_IdxMgr.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/gc8034sub_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc8034sub_mipi_raw_tuning.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.audio@5.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.audio@5.0-impl-mediatek.so \
+    vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.audio.effect@5.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.audio.effect@5.0-impl.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth.audio@2.0-impl-mediatek.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
     vendor/micromax/yogurt/proprietary/vendor/lib64/hw/android.hardware.camera.provider@2.4-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.camera.provider@2.4-impl-mediatek.so \
