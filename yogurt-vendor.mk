@@ -77,7 +77,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/bin/getconf:$(TARGET_COPY_OUT_VENDOR)/bin/getconf \
     vendor/micromax/yogurt/proprietary/vendor/bin/gsm0710muxd:$(TARGET_COPY_OUT_VENDOR)/bin/gsm0710muxd \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/android.hardware.audio@5.0-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.audio@5.0-service-mediatek \
-    vendor/micromax/yogurt/proprietary/vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.biometrics.fingerprint@2.1-service \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.0-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth@1.0-service-mediatek \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/android.hardware.drm@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.0-service \
     vendor/micromax/yogurt/proprietary/vendor/bin/hw/android.hardware.drm@1.2-service.clearkey:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.2-service.clearkey \
@@ -303,7 +302,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/yogurt/proprietary/vendor/etc/ecc_list_OP20.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list_OP20.xml \
     vendor/micromax/yogurt/proprietary/vendor/etc/fstb.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/fstb.cfg \
     vendor/micromax/yogurt/proprietary/vendor/etc/init/android.hardware.audio@5.0-service-mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.audio@5.0-service-mediatek.rc \
-    vendor/micromax/yogurt/proprietary/vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc \
     vendor/micromax/yogurt/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@1.0-service-mediatek.rc \
     vendor/micromax/yogurt/proprietary/vendor/etc/init/android.hardware.drm@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.drm@1.0-service.rc \
     vendor/micromax/yogurt/proprietary/vendor/etc/init/android.hardware.drm@1.2-service.clearkey.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.drm@1.2-service.clearkey.rc \
