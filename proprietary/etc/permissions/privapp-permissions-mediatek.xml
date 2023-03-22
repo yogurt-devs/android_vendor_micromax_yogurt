@@ -13,7 +13,8 @@ applications that come with the platform
         <permission name="android.permission.MODIFY_PHONE_STATE"/>
     </privapp-permissions>
 
-    <privapp-permissions package="com.baidu.map.location">
+    <!-- prize remove by wuliang 20200111 blu begin -->
+    <!--privapp-permissions package="com.baidu.map.location">
         <permission name="android.permission.INTERACT_ACROSS_USERS"/>
         <permission name="android.permission.INSTALL_LOCATION_PROVIDER"/>
         <permission name="android.permission.WRITE_APN_SETTINGS"/>
@@ -21,8 +22,8 @@ applications that come with the platform
         <permission name="android.permission.READ_LOGS"/>
         <permission name="android.permission.UPDATE_DEVICE_STATS"/>
         <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
-    </privapp-permissions>
-
+    </privapp-permissions-->
+    <!-- prize remove by wuliang 20200111 blu end -->
     <privapp-permissions package="com.mediatek.location.lppe.main">
         <permission name="android.permission.CHANGE_WIFI_STATE"/>
         <permission name="android.permission.LOCATION_HARDWARE"/>
@@ -153,6 +154,9 @@ applications that come with the platform
         <permission name="android.permission.DUMP" />
         <permission name="android.permission.UPDATE_APP_OPS_STATS" />
         <permission name="android.permission.INTERACT_ACROSS_USERS" />
+        <!-- prize added by liufan, for can't started phone 2019-11-12-start-->
+        <permission name="android.permission.WATCH_APPOPS" />
+        <!-- prize added by liufan, for can't started phone 2019-11-12-end-->
     </privapp-permissions>
 
     <privapp-permissions package="com.android.providers.downloads">
@@ -285,7 +289,7 @@ applications that come with the platform
     <privapp-permissions package="com.mediatek.ims.pco">
         <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
     </privapp-permissions>
-
+    
     <privapp-permissions package="com.mediatek.omacp">
         <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
         <permission name="android.permission.VIBRATE"/>
@@ -295,4 +299,16 @@ applications that come with the platform
         <permission name="android.permission.RECEIVE_WAP_PUSH"/>
         <permission name="android.permission.FOREGROUND_SERVICE"/>
     </privapp-permissions>
+
+    <privapp-permissions package="com.vestel.vestelanalyticservice">
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.DUMP"/>
+    </privapp-permissions>
+    
+    <privapp-permissions package="com.micromax.lib.activation">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.UPDATE_APP_OPS_STATS"/>
+    </privapp-permissions>
+    
 </permissions>
