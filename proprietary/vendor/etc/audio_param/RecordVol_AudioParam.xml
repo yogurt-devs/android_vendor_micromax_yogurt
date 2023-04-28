@@ -46,8 +46,11 @@
     <Param path="FastRecord,USB" param_id="1"/>
     <Param path="FastRecord,HS5POLE" param_id="3"/>
     <Param path="FastRecord,HS5POLE_ANC" param_id="3"/>
-    <Param path="Unprocessed" param_id="4"/>
+    <Param path="Unprocessed,Handset" param_id="4"/>
+    <Param path="Unprocessed,Headset" param_id="4"/>
     <Param path="Unprocessed,USB" param_id="1"/>
+    <Param path="Unprocessed,HS5POLE" param_id="4"/>
+    <Param path="Unprocessed,HS5POLE_ANC" param_id="4"/>
     <Param path="AAudio,Handset" param_id="0"/>
     <Param path="AAudio,Headset" param_id="0"/>
     <Param path="AAudio,USB" param_id="1"/>
@@ -56,7 +59,6 @@
     <Param path="Default,Camera recording,Handset" param_id="5"/>
     <Param path="Default,VR,Handset" param_id="6"/>
     <Param path="Default,Camera recording,Headset" param_id="7"/>
-    <Param path="Default,VR,Headset" param_id="8"/>
   </ParamTree>
   <ParamUnitPool>
     <ParamUnit param_id="0">
@@ -78,12 +80,9 @@
       <Param name="ul_gain" value="34"/>
     </ParamUnit>
     <ParamUnit param_id="6">
-      <Param name="ul_gain" value="34"/>
+      <Param name="ul_gain" value="15"/>
     </ParamUnit>
     <ParamUnit param_id="7">
-      <Param name="ul_gain" value="34"/>
-    </ParamUnit>
-    <ParamUnit param_id="8">
       <Param name="ul_gain" value="34"/>
     </ParamUnit>
   </ParamUnitPool>
